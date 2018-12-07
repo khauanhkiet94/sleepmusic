@@ -1,0 +1,17 @@
+{
+  "ads": [
+    {
+      "status": 1,
+      "pkg": "com.relax.naturalsounds.sleepsound",
+      "fb": "380736686005003_380741502671188",
+      "admob": "ca-app-pub-5686065012807485/9804799766",
+      "unity": "",
+      "enable": true,
+      "time-after-active": 186400,
+      "admob-banner": "ca-app-pub-5686065012807485/1410346564",
+      "fb-banner": "380736686005003_380741656004506",
+      "dc": "/93656639/32954671",
+      "dc-banner": "/93656639/38249157"
+    }
+  ]
+}
